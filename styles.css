@@ -340,6 +340,13 @@
     width: 80px; 
 }
 
+@media only screen and (max-width: 1835px) {
+    .projectsBoard {
+        grid-template-columns: 1fr; 
+    }
+}
+
+
 @media only screen and (max-width: 1300px) {
 
     /* side bar changes */
